@@ -12,10 +12,10 @@ var previous = 0;
 var restAndStart = function () { //with "restAndStart" we place it at the Win, and Lost so we can reset the game evertime without having to reload the page
     $(".Vibraniums").empty(); //emptying the Vibranium 
 
-    var images = ['/assets/images/BP.jpg',
-                  '/assets/images/purple.jpg',
-                  '/assets/images/Rbp.png',
-                  '/assets/images/gold&black.jpg'];
+    var images = ['assets/images/BP.jpg',
+                  'assets/images/purple.jpg',
+                  'assets/images/Rbp.png',
+                  'assets/images/gold&black.jpg'];
 random_Number = Math.floor(Math.random() *101 ) + 19; // this for generating a new random
 $("#Number").html('Random Number: ' + random_Number); //this putting the random number in the cooridinates, add it to the DOm
 
