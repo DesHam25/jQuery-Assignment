@@ -1,0 +1,73 @@
+
+
+body{
+    background: black;
+    font-family: 'Lalezar', cursive;
+    font-family: 'Sarpanch', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px; 
+    color:rgb(176, 2, 245);
+  
+}
+
+h2{
+
+    padding-top: 20px; 
+    text-align: center;
+    text-decoration-line: overline underline;
+
+    animation-duration: 2s;
+    animation-delay: 1s;
+       
+}
+
+.Vibraniums{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.Vibranium{
+    border:2px solid  rgb(255, 215, 0);
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(176, 2, 245);
+}
+
+.Vibranium:hover{
+    box-shadow: 15px 15px 15px  rgb(176, 2, 245);
+    cursor: pointer;
+    transition: box-shadow 1s; 
+
+}
+
+
+#Number{
+    font-size: 25px;
+    text-align:center; 
+
+}
+
+#win{
+    
+    font-size: 25px;
+    color: rgb(255, 215, 0); 
+    
+}
+
+#previous{
+
+    font-size: 25px; 
+    text-align: center;
+    padding-top: 15px;
+
+    
+
+}
+
+
+img{ 
+    width: 50px;
+}
