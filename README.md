@@ -1,7 +1,9 @@
 Crystal Collector
 
 jQuery Assignment
-https://desham25.github.io/unit-4-game/.
+https://desham25.github.io/jQuery-Assignment/
+
+HW-4
 
 ## Overview
 
