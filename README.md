@@ -1,6 +1,6 @@
 Crystal Collector
 
-# unit-4-game
+jQuery Assignment
 https://desham25.github.io/unit-4-game/.
 
 ## Overview
